@@ -45,9 +45,9 @@ span.quote sup.iconbis-evt_quote-right {
 
 
 
-.p {
+.w {
 	/* font-family: 'Montserrat', sans-serif; */
-	font-family: "Source Serif 4", serif;
+	font-family: "Source Serif 4", "Junicode", Times, serif;
 	font-optical-sizing: auto;
 }
 
