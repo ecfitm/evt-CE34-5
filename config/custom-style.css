@@ -55,8 +55,7 @@ body {
 	font-family: Montserrat, sans-serif;
 }
 
-body>header,
-body>header i {
+body>header {
 	background-color: #cbcec0;
 	color: #262c11;
 	font-weight: bold;
