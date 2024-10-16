@@ -5,9 +5,16 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Edizione digitale dell' Editto di Rotari<title><hi rend="italic">Edictum Rothari</hi>: Ivrea, Biblioteca
-            Capitolare, XXXIV (5) (ms 3) - 643 d.C.</title></title>
+        <title>Edizione digitale dell'Editto di Rotari <title><hi rend="italic">Edictum Rothari</hi>: Ivrea, Biblioteca
+            Capitolare, Cod. XXXIV (5) (ms 3) - 643 d.C.</title></title>
         <author>Rotari, re longobardo, per mano del notaio Ansoaldo.</author>
+        <principal>Marina Buzzoni</principal>
+        <principal>Roberto Rosselli Del Turco</principal>
+        <respStmt>
+          <resp>General overview: </resp>
+          <name>Marina Buzzoni</name>
+          <name>Roberto Rosselli Del Turco</name>
+        </respStmt>
         <respStmt>
           <resp>Trascrizione diplomatica effettuata da </resp>
           <name>Omar Hashem Abdo Khalaf</name>
@@ -25,6 +32,7 @@
           <name>Roberto Rosselli Del Turco</name>
         </respStmt>
       </titleStmt>
+
       <editionStmt>
         <edition>Edizioni precedenti Leges Langobardorum</edition>
         <respStmt xml:id="azzara">
@@ -64,26 +72,26 @@
               <settlement>Ivrea</settlement>
               <repository>Biblioteca Capitolare</repository>
               <idno>(ms 3) - La numerazione progressiva (ms 3) è ripresa da Bluhme, Fr. (1868) (Hg.),Leges
-                Langobardorum, Hannover (MGH, LL IV) (ristampa anastatica Stuttgart 1965).</idno>
+                Langobardorum, Hannover (MGH, LL IV) (ristampa anastatica Stuttgart 1965).</idno><!-- CHECK format also other witnesses -->
             </altIdentifier>
           </msIdentifier>
           <msContents>
-            <p>Contiene tutte le <hi rend="italic">Leges</hi>, l' <hi rend="italic">Admonitio generalis</hi> e alcuni
+            <p>Contiene tutte le <hi rend="italic">Leges</hi>, l'<hi rend="italic">Admonitio generalis</hi> e alcuni
               capitolari (tra cui quelli di Pipino, Carlo Magno, Lotario).</p>
             <p>L'Editto di Rotari è contenuto ai ff. 57r.-104v.</p>
             <p>Sulla base di questo manoscritto Bluhme (1868, 1) ricostruisce la titolatura e, soprattutto, il prologo
-              dell'Editto, mancanti sia nel sangallese che nel vercellese. Anche l' elenco dei <hi rend="italic"
+              dell'Editto, mancanti sia nel sangallese che nel vercellese. Anche l'elenco dei <hi rend="italic"
                 >capitula</hi> è riportato secondo il codice di Ivrea (f. 58).</p>
-            <p>Il testo mostra, conformemente a quanto richiesto dalla politica purista dell' epoca carolingia, un
+            <p>Il testo mostra, conformemente a quanto richiesto dalla politica purista dell'epoca carolingia, un
               latino più sorvegliato rispetto ai volgarismi che caratterizzano i due codici più antichi (sangallese e
               vercellese). Sono presenti circa 80 termini in lingua longobarda.</p>
           </msContents>
           <physDesc>
             <objectDesc form="codex">
-              <supportDesc material="perg">
+              <supportDesc material="parchment">
                 <support>Parchment.</support>
                 <extent>
-                  <measure type="leaves">Il codice è composto da 168 foll</measure>
+                  <measure type="leaves">Il codice è composto da 168 foll.</measure>
                   <measure type="dimensions"> -- </measure>
                   <measure type="lines">26-27 righe per pagina</measure>
                 </extent>
@@ -101,8 +109,8 @@
           <history>
             <p>Inizi del IX sec., di provenienza italiana settentrionale, forse Pavia secondo Mordek (1995). È il primo
               codice a rendere nota tutta la tradizione delle <hi rend="italic">Leges</hi> fino ad Astolfo.</p>
-            <p>Dal punto di vista culturale, l' <hi rend="italic">Eporedianus</hi> XXXIV (5) si inserisce in un progetto
-              di ampio respiro, promosso all' interno di un centro scrittorio dinamico e specializzato quale è quello di
+            <p>Dal punto di vista culturale, l'<hi rend="italic">Eporedianus</hi> XXXIV (5) si inserisce in un progetto
+              di ampio respiro, promosso all'interno di un centro scrittorio dinamico e specializzato quale è quello di
               Ivrea in particolare durante il lungo periodo di attività riferibile alla prestigiosa figura del vescovo
               Giuseppe (825?-855?).</p>
           </history>
@@ -112,6 +120,20 @@
     </fileDesc>
 
     <encodingDesc>
+
+      <projectDesc>
+        <p>Progetto PRIN 2022 PNRR - Missione 4 “Istruzione e Ricerca” del Piano Nazionale di Ripresa e Resilienza;
+          componente C2 – investimento 1.1, Fondo per il Programma Nazionale di Ricerca e Progetti di Rilevante
+          Interesse Nazionale (PRIN), dal titolo <title>A digital scholarly edition of the "Leges Langobardorum": social
+            memory, historical legacy and valorisation of cultural heritage</title> - CUP H53D23009340001 - finanziato
+          dal Bando PRIN 2022 PNRR - D.D. n. 1409 del 14/09/2022.</p>
+      </projectDesc>
+
+      <editorialDecl>
+        <hyphenation eol="all">
+          <p>Physical line breaks are preserved in the encoded text.</p>
+        </hyphenation>
+      </editorialDecl>
 
       <charDecl>
 
@@ -230,6 +252,14 @@
           <mapping type="normalized">p</mapping>
         </char>
 
+        <!-- aggiunto 2024-10 -->
+        <char xml:id="Ptilde">
+          <unicodeProp name="Name" value="LATIN CAPITAL LETTER P WITH TILDE"/>
+          <mapping subtype="composed" type="codepoint">U+0050 + U+0303</mapping>
+          <mapping type="diplomatic">P̃</mapping>
+          <mapping type="normalized">P</mapping>
+        </char>
+        
         <!-- aggiunto 2018-11-21 -->
         <char xml:id="qtilde">
           <unicodeProp name="Name" value="LATIN SMALL LETTER Q WITH TILDE"/>
@@ -237,7 +267,6 @@
           <mapping type="diplomatic">q̃</mapping>
           <mapping type="normalized">q</mapping>
         </char>
-
 
         <!-- aggiunto 2018-11-21 -->
         <char xml:id="nscapslonglig">
@@ -409,6 +438,14 @@
           <mapping type="normalized">et</mapping>
         </char>
 
+        <!-- aggiunto 2024-10 --><!-- CHECK completamente custom per ora, v. CE34-5 f. 57r --> 
+        <glyph xml:id="eilig">
+          <unicodeProp name="Name" value="LATIN CAPITAL LETTER P WITH TILDE"/>
+          <!--<mapping subtype="composed" type="codepoint">U+0050 + U+0303</mapping>-->
+          <mapping type="diplomatic">ei</mapping>
+          <mapping type="normalized">ei</mapping>
+        </glyph>
+
         <!-- aggiunto 2019-01-21 -->
         <glyph xml:id="urlig">
           <unicodeProp name="Name" value="LATIN SMALL LIGATURE UR"/>
@@ -525,7 +562,7 @@
     <profileDesc>
       <langUsage>
         <language ident="lat">Latino</language>
-        <language ident="lng">Langobardic</language>
+        <language ident="lng">Longobardo</language>
       </langUsage>
       <textClass>
         <keywords>
@@ -538,8 +575,9 @@
         <date when="2016-06-13">13/06/2016</date>
       </creation>
     </profileDesc>
+
     <revisionDesc>
-      <change when="2022-02" who="RRDT">Revisione e finalizzazione della codifica a cura di Roberto Rosselli Del
+      <change from="2022-02" who="RRDT">Revisione e finalizzazione della codifica a cura di Roberto Rosselli Del
         Turco</change>
       <change when="2019-12" who="MG">Codifica effettuata da Marianna Giardina</change>
       <change when="2016-06" who="LC">Codifica effettuata da Laura Calzavara</change>
@@ -552,6 +590,11 @@
     
     - rivedere type e subtype per i div non capitula
     - sostituire <p> con <ab> nella lista dei capitula iniziali, modificare xml:id di conseguenza
+    - sostituire <charDecl> con quella esterna
+    - controllare gli usi di etlig, non sembra il carattere giusto al f. 57r 
+      v. https://www.fileformat.info/info/unicode/char/1f672/index.htm
+    - mancano moltissimi caratteri speciali: slong, a nella forma aperta (cc)
+    - manca gestione punteggiatura
     
     -->
 
@@ -664,8 +707,8 @@
           <w>regni</w>
           <w>
             <choice>
-              <abbr>m<am><g ref="#etlig"/></am></abbr>
-              <expan>m<ex>ei</ex></expan>
+              <abbr>m<am><g ref="#eilig"/></am></abbr>
+              <expan>me<ex>i</ex></expan>
             </choice>
           </w>
   
@@ -675,9 +718,9 @@
           <w>octabo</w>
           <w>anno</w>
           <w>
-            <choice>
-              <abbr>ablatisq<am><g ref="#twodot"/></am></abbr>
-              <expan>ablatisq<ex>ue</ex></expan>
+            <choice><!-- CHECK -->
+              <sic><abbr>aelatisq<am><g ref="#twodot"/></am></abbr></sic>
+              <corr resp="rrdt"><expan>aetatisq<ex>ue</ex></expan></corr>
             </choice>
           </w>
           <w>
@@ -689,13 +732,13 @@
           <w>octabo</w>
           <w>indictione</w>
           <lb n="2" xml:id="CE34-5_lb_057v_02"/>
-          <w>secunda</w>
-          <w><hi rend="black and red">E</hi>t</w>
+          <w>secunda</w>.
+          <w><hi rend="black and red"><g ref="#Eunc"/></hi>t</w>
           <w>post</w>
           <w>advento</w>
           <w>in</w>
           <w>provincia</w>
-          <placeName ref="#Italia"><w>ital<g ref="#jnodotenl"/>e</w></placeName>
+          <placeName ref="#Italia"><w>Ital<g ref="#jnodotenl"/><g ref="#eogon"/></w></placeName>
           <lb n="3" xml:id="CE34-5_lb_057v_3"/>
           <w>langobardorum</w>
           <w>ex</w>
@@ -705,13 +748,13 @@
           <w>temporis</w>
           <lb n="4" xml:id="CE34-5_lb_057v_4"/>
           <w>regem</w>
-          <w>precedentem</w>
+          <w>pr<g ref="#eogon"/>cedentem</w>
           <w>divina</w>
           <w>potent<g ref="#jnodotenl"/>a</w>
           <w>adduct<g ref="#jnodotenl"/></w>
           <w>
             <choice>
-              <abbr><am><g ref="#stilde"/></am>o</abbr>
+              <abbr><am><g ref="#stilde"/></am></abbr>
               <expan>s<ex>unt</ex></expan>
             </choice>
           </w>
@@ -785,7 +828,7 @@
           <w>
             <choice>
               <abbr>om<am><g ref="#ptilde"/></am>tis</abbr>
-              <expan>om<ex>ni</ex>p<ex>o</ex>t<ex>en</ex>is</expan>
+              <expan>om<ex>ni</ex>p<ex>oten</ex>tis</expan>
             </choice>
           </w>
           <w>grat<g ref="#jnodotenl"/>am</w>
@@ -846,7 +889,7 @@
           <w>salua</w>
           <w>lege</w>
           <w><g ref="#openetlig"/></w>
-          <w>iustit<g ref="#jnodotenl"/>a</w>
+          <w>iustit<g ref="#jnodotenl"/><g ref="#atilde"/></w> <!-- CHECK actually a versione cc/alfpha shaped -->
           <w>qui<g ref="#openetlig"/>e</w>
           <w><c corresp="#v">u</c>i<c corresp="#v">u</c>ere</w>
           <lb n="18" xml:id="CE34-5_lb_057v_18"/>
@@ -946,7 +989,7 @@
 
       <div subtype="edition_text" type="prose" xml:id="CE34-5_ER_Catalogus_regum">
 
-        <p>
+        <p><!-- CHECK mancano regolarizzazioni -->
           <lb n="25" xml:id="CE34-5_lb_057v_25"/>
           <w><hi rend="black and red">F</hi>uit</w>
           <w>primus</w>
@@ -954,8 +997,8 @@
           <w>rex</w>
           <w>ex</w>
           <w>genere</w>
-          <persName xml:lang="lng">
-            <surname><w>gunzingur</w></surname>
+          <persName xml:lang="lng"><!-- CHECK manca ref -->
+            <surname><w>gunzingus</w></surname>
           </persName>
           <lb n="26" xml:id="CE34-5_lb_057v_26"/>
           <persName ref="#Laamisio"><w><hi rend="black and red">L</hi>aamisio</w></persName>
@@ -963,7 +1006,7 @@
           <persName ref="#Geldehoc"><w><hi rend="cap">G</hi>eldehoc</w></persName>
           <persName ref="#Godeoch"><w><hi rend="cap">G</hi>odeoch</w></persName>
           <w>filius</w>
-          <persName ref="#Zeldehoc"><w>zeldehoc</w></persName>
+          <lb/><add place="below" rend="align-right"><persName ref="#Zeldehoc"><w>zeldehoc</w></persName></add><!-- CHECK add o lb? -->
   
         <pb n="058r" xml:id="CE34-5_folio_058r"/>
   
@@ -6295,7 +6338,10 @@
           <w>incusa<c corresp="#v">u</c>erit</w>
           <lb n="23" xml:id="CE34-5_lb_066v_23"/><w>quod</w>
           <w>ad</w>
-          <w>anime</w>
+          <w><choice>
+            <orig>anime</orig>
+            <reg>animae</reg>
+          </choice></w>
           <w>
             <choice>
               <abbr><am><g ref="#pbardes"/></am>tineat</abbr>
@@ -8498,7 +8544,10 @@
           <lb n="17" xml:id="CE34-5_lb_069v_17"/>
           <w>penetrare</w>
           <w>pr<g ref="#eogon"/>sumpserit</w>
-          <w>anime</w>
+          <w><choice>
+            <orig>anime</orig>
+            <reg>animae</reg>
+          </choice></w>
           <w>su<g ref="#eogon"/></w>
           <w>incurrat</w>
           <w>
@@ -22205,7 +22254,10 @@
             </choice>
           </w>
           <w>sociare</w>
-          <w>anime</w>
+          <w><choice>
+            <orig>anime</orig>
+            <reg>animae</reg>
+          </choice></w>
           <w>suae</w>
           <w>incurrat</w>
           <w>periculum</w>
@@ -25633,7 +25685,10 @@
           <measure quantity="80" type="currency" unit="soldi"><w>LXXX</w></measure>
           <lb n="21" xml:id="CE34-5_lb_091r_21"/>
           <w>aut</w>
-          <w>anime</w>
+          <w><choice>
+            <orig>anime</orig>
+            <reg>animae</reg>
+          </choice></w>
           <w>suae</w>
           <w>Incurrat</w>
           <w>periculum</w>
@@ -28096,7 +28151,10 @@
           <w>in</w>
           <w>capite</w>
           <w>fuerit</w>
-          <w>anime</w>
+          <w><choice>
+            <orig>anime</orig>
+            <reg>animae</reg>
+          </choice></w>
           <w>sue</w>
           <w>Incurrat</w>
           <w>
@@ -35209,7 +35267,10 @@
           <w>regis</w>
           <w>si</w>
           <w>fecerit</w>
-          <w>anime</w>
+          <w><choice>
+            <orig>anime</orig>
+            <reg>animae</reg>
+          </choice></w>
           <w>sue</w>
           <w>Incurrat</w>
           <w>per<g ref="#jnodotenl"/><lb n="19" xml:id="CE34-5_lb_102v_19"/>culu</w>
