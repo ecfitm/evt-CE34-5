@@ -3441,7 +3441,7 @@
               <expan>scandalu<ex>m</ex></expan>
             </choice>
           </w>
-          <w>pene<lb n="2" xml:id="CE34-5_lb_059r_02"/>tra<c corresp="#v">u</c>erit</w>
+          <w>pene<lb n="2" xml:id="CE34-5_lb_059r_02"/><seg rend="indent-50">tra<c corresp="#v">u</c>erit</seg></w>
         </ab>
 
         <ab corresp="#CE34-5_p_069v_37">
@@ -3458,7 +3458,7 @@
           <w>ubi</w>
           <w>rex</w>
           <w>est</w>
-          <w>scanda<lb n="4" xml:id="CE34-5_lb_059r_04"/>lum</w>
+          <w>scanda<lb n="4" xml:id="CE34-5_lb_059r_04"/><seg rend="indent-50">lum</seg></w>
           <w>penetra<c corresp="#v">u</c>erit</w>
         </ab>
 
@@ -3481,7 +3481,7 @@
               <expan>scandalu<ex>m</ex></expan>
             </choice>
           </w>
-          <lb n="6" xml:id="CE34-5_lb_059r_06"/><w>commiserit</w>
+          <lb n="6" xml:id="CE34-5_lb_059r_06"/><seg rend="indent-50"><w>commiserit</w></seg>
         </ab>
 
         <ab corresp="#CE34-5_p_070r_39">
@@ -3603,7 +3603,7 @@
           <w>ut</w>
           <w>ossa</w>
           <lb n="16" xml:id="CE34-5_lb_059r_16"/>
-          <w>rumpantur</w>
+          <seg rend="indent-50"><w>rumpantur</w></seg>
         </ab>
 
         <ab corresp="#CE34-5_p_070v_48">
@@ -3827,12 +3827,12 @@
           <w>feritas</w>
           <w>superius</w>
           <lb n="18" xml:id="CE34-5_lb_059v_18"/>
-          <w>scriptas</w>
+          <seg rend="indent-50"><w>scriptas</w>
           <w>que</w>
           <w>inter</w>
           <w>homines</w>
           <w>liberos</w>
-          <w>e<c corresp="#v">u</c>enerit</w>
+          <w>e<c corresp="#v">u</c>enerit</w></seg>
         </ab>
 
         <ab corresp="#CE34-5_p_072r_75">
@@ -4309,7 +4309,7 @@
           <w>de</w>
           <term ref="#aldius"><w>aldio</w></term>
           <lb n="20" xml:id="CE34-5_lb_060v_20"/>
-          <w>quam</w>
+          <seg rend="indent-50"><w>quam</w>
           <w>de</w>
           <w>ser<c corresp="#v">u</c>o</w>
           <w>
@@ -4320,7 +4320,7 @@
           </w>
           <w>hoc</w>
           <w>tinore</w>
-          <w>finiantur</w>
+          <w>finiantur</w></seg>
         </ab>
         
         <ab corresp="#CE34-5_p_075r_128">
@@ -4747,7 +4747,7 @@
           <w>legitimas</w>
           <w><g ref="#openetlig"/></w>
           <w>sororer</w>
-          <w>le<lb n="2" xml:id="CE34-5_lb_061v_02"/>gitimas</w>
+          <w>le<lb n="2" xml:id="CE34-5_lb_061v_02"/><seg rend="indent-50">gitimas</seg></w>
           <w><g ref="#openetlig"/></w>
           <w>filium</w>
           <w>legitimum</w>
@@ -4764,9 +4764,9 @@
           <w><g ref="#openetlig"/></w>
           <w>sorores</w>
           <lb n="4" xml:id="CE34-5_lb_061v_04"/>
-          <w>pro</w>
+          <seg rend="indent-50"><w>pro</w>
           <w>mundio</w>
-          <w>earum</w>
+          <w>earum</w></seg>
         </ab>
         
         <ab corresp="#CE34-5_p_079r_162">
@@ -4853,14 +4853,14 @@
           <w>quod</w>
           <w>mundius</w>
           <lb n="9" xml:id="CE34-5_lb_061v_09"/>
-          <w>ad</w>
+          <seg rend="indent-50"><w>ad</w>
           <w>ipsum</w>
           <w>
             <choice>
               <abbr><am><g ref="#pbardes"/></am>tineat</abbr>
               <expan>p<ex>er</ex>tineat</expan>
             </choice>
-          </w>
+          </w></seg>
         </ab>
         
         <ab corresp="#CE34-5_p_079v_166">
@@ -4937,8 +4937,8 @@
           <w>filius</w>
           <w>
             <choice>
-              <abbr>cui<lb n="15" xml:id="CE34-5_lb_061v_15_abbr"/>cumq<am><g ref="#twodot"/></am></abbr>
-              <expan>cui<lb n="15" xml:id="CE34-5_lb_061v_15_expan"/>cumq<ex>ue</ex></expan>
+              <abbr>cui<lb n="15" xml:id="CE34-5_lb_061v_15_abbr"/><seg rend="indent-50">cumq<am><g ref="#twodot"/></am></seg></abbr>
+              <expan>cui<lb n="15" xml:id="CE34-5_lb_061v_15_expan"/><seg rend="indent-50">cumq<ex>ue</ex></seg></expan>
             </choice>
           </w>
           <w>thingare</w>
@@ -5062,8 +5062,8 @@
           <w>sponsata</w>
           <w>habet</w>
           <lb n="26" xml:id="CE34-5_lb_061v_26"/>
-          <w>lebrosa</w>
-          <w>appar<c corresp="#v">u</c><space quantity="6" unit="chars"/>erit</w>
+          <seg rend="indent-50"><w>lebrosa</w>
+          <w>appar<c corresp="#v">u</c><space quantity="6" unit="chars"/>erit</w></seg>
         </ab>
 
         <pb n="062r" xml:id="CE34-5_folio_062r"/>
@@ -5153,8 +5153,8 @@
           <w><c corresp="#v">u</c>oluntate</w>
           <w>
             <choice>
-              <abbr>pa<lb n="9" xml:id="CE34-5_lb_062r_09_abbr"/>rent<am><g ref="#utilde"/></am></abbr>
-              <expan>pa<lb n="9" xml:id="CE34-5_lb_062r_09_expan"/>rentu<ex>m</ex></expan>
+              <abbr>pa<lb n="9" xml:id="CE34-5_lb_062r_09_abbr"/><seg rend="indent-50">rent<am><g ref="#utilde"/></am></seg></abbr>
+              <expan>pa<lb n="9" xml:id="CE34-5_lb_062r_09_expan"/><seg rend="indent-50">rentu<ex>m</ex></seg></expan>
             </choice>
           </w>
           <w>ad</w>
@@ -5222,8 +5222,8 @@
             </choice>
           </w>
           <lb n="15" xml:id="CE34-5_lb_062r_15"/>
-          <w>secuta</w>
-          <w>fuerit</w>
+          <seg rend="indent-50"><w>secuta</w>
+          <w>fuerit</w></seg>
         </ab>
         
         <ab corresp="#CE34-5_p_084r_194">
@@ -5500,8 +5500,9 @@
               <expan>parentu<ex>m</ex></expan>
             </choice>
           </w>
-          <lb n="10" xml:id="CE34-5_lb_062v_10"/><w>duxerit</w>
-          <w>uxorem</w>
+          <lb n="10" xml:id="CE34-5_lb_062v_10"/>
+          <seg rend="indent-50"><w>duxerit</w>
+          <w>uxorem</w></seg>
         </ab>
         
         <ab corresp="#CE34-5_p_086v_215">
@@ -5887,12 +5888,12 @@
           <w>castro</w>
           <w>aut</w>
           <lb n="17" xml:id="CE34-5_lb_063r_17"/>
-          <w>ci<c corresp="#v">u</c>itatem</w>
+          <seg rend="indent-50"><w>ci<c corresp="#v">u</c>itatem</w>
           <w>discenderit</w>
           <choice>
             <orig><pc>:</pc></orig>
             <reg>.</reg>
-          </choice>
+          </choice></seg>
         </ab>
 
         <ab corresp="#CE34-5_p_090r_244">
@@ -5985,7 +5986,7 @@
           <w>ca<c corresp="#v">u</c>allus</w>
           <w>domitus</w>
           <lb n="24" rend="align_right" xml:id="CE34-5_lb_063r_24"/>
-          <w>aut</w>
+          <seg rend="indent-100"><w>aut</w>
           <w>bo<c corresp="#v">u</c>es</w>
           <w>domitos</w>
           <w>
@@ -5993,7 +5994,7 @@
               <abbr>pig<am><g ref="#ntilde"/></am>p</abbr>
               <expan>pign<ex>eraverit</ex></expan>
             </choice>
-          </w>
+          </w></seg>
         </ab>
         
         <ab corresp="#CE34-5_p_090v_251">
@@ -6017,9 +6018,9 @@
           <w>hab<g ref="#openetlig"/></w>
           <w>nisi</w>
           <w>ca<c corresp="#v">u</c>allos</w>
-          <lb n="27" rend="align_right" xml:id="CE34-5_lb_063r_27"/>
-          <w>aut</w>
-          <w>bo<c corresp="#v">u</c>es</w>
+          <lb rend="align_right" xml:id="CE34-5_lb_063r_27"/>
+          <seg rend="align-right"><w>aut</w>
+          <w>bo<c corresp="#v">u</c>es</w></seg>
         </ab>
 
         <pb n="063v" xml:id="CE34-5_folio_063v"/>
@@ -6030,7 +6031,7 @@
           <w>liceat</w>
           <w>casa</w>
           <w>ordinata</w>
-          <w>tributa<lb n="2" xml:id="CE34-5_lb_063v_02"/>ria</w>
+          <w>tributa<lb n="2" xml:id="CE34-5_lb_063v_02"/><seg rend="indent-50">ria</seg></w>
           <w>pro</w>
           <w>quolibet</w>
           <w>
@@ -6231,7 +6232,7 @@
           <w>est</w>
           <w>res</w>
           <w>al<g ref="#jnodotenl"/>enas</w>
-          <w>cuil<g ref="#jnodotenl"/><lb n="13" xml:id="CE34-5_lb_063v_13"/>b<g ref="#openetlig"/></w>
+          <w>cuil<g ref="#jnodotenl"/><lb n="13" xml:id="CE34-5_lb_063v_13"/><seg rend="indent-50">b<g ref="#openetlig"/></seg></w>
           <w>commenda<c corresp="#v">u</c>erit</w>
         </ab>
         
@@ -6254,7 +6255,7 @@
           <w>foris</w>
           <w>pro<c corresp="#v">u</c>incia</w>
           <lb n="16" xml:id="CE34-5_lb_063v_16"/>
-          <w>fugire</w>
+          <seg rend="indent-50"><w>fugire</w></seg>
         </ab>
         
         <ab corresp="#CE34-5_p_092r_265">
@@ -6323,10 +6324,10 @@
           </w>
           <damage/><space extent="10" unit="chars"/>
           <w>mancipius</w>
-          <lb n="21" xml:id="CE34-5_lb_063v_21"/><w>al<g ref="#jnodotenl"/>ena</w>
+          <lb n="21" xml:id="CE34-5_lb_063v_21"/><seg rend="indent-50"><w>al<g ref="#jnodotenl"/>ena</w>
           <w>fugi<c corresp="#v">u</c>erit</w>
           <w><g ref="#openetlig"/></w>
-          <w>nolui</w>
+          <w>nolui</w></seg>
           <w>
             <choice>
               <abbr>e<am><g ref="#atilde"/></am></abbr>
@@ -6378,7 +6379,7 @@
           <w>casa</w>
           <w>sua</w>
           <lb n="26" xml:id="CE34-5_lb_063v_26"/>
-          <w>
+          <seg rend="indent-50"><w>
             <choice>
               <abbr>su<am><g ref="#pbardes"/></am></abbr>
               <expan>sup<ex>er</ex></expan>
@@ -6387,15 +6388,15 @@
           <w>no<c corresp="#v">u</c>em</w>
           <w>noctes</w>
           <w>ha<damage/><space extent="12" unit="chars"/>buerit</w>
-          <w>nesciente</w>
-          <lb n="27" rend="align_right" xml:id="CE34-5_lb_063v_27"/>
-          <w>
+          <w>nesciente</w></seg>
+          <lb rend="align_right" xml:id="CE34-5_lb_063v_27"/>
+          <seg rend="align-right"><w>
             <choice>
               <abbr>d<am><g ref="#ntilde"/></am>o</abbr>
               <expan>d<ex>omi</ex>no</expan>
             </choice>
           </w>
-          <w>eius</w>
+          <w>eius</w></seg>
         </ab>
 
         <pb n="064r" xml:id="CE34-5_folio_064r"/>
@@ -17612,7 +17613,16 @@
           <w>nomerentur</w>
           <w>ut</w>
           <w>parens</w>
-          <add hand="scribe_1" place="above"><w>ppinti</w></add><!-- CHECK ·|· abbreviazione per id est? -->
+          <add hand="scribe_1" place="above">
+            <choice>
+              <abbr><am><g ref="#Itwodot"/></am></abbr><!-- CHECK need new g -->
+              <expan><w><ex>id</ex></w> <w><ex>est</ex></w></expan>
+            </choice>
+            <choice>
+              <abbr><w><g ref="#pbardes"/>pinqi</w></abbr>
+              <expan><w>p<ex>ro</ex>pinqui</w></expan>
+            </choice>
+          </add>
           <w>parenti</w>
           <lb n="20" xml:id="CE34-5_lb_077v_20"/>
           <w>
@@ -26999,9 +27009,9 @@
               <expan><w><ex>id</ex></w> <w><ex>est</ex></w></expan>
             </choice>  
             <unclear>
-              <w><choice><!-- CHECK clearly meaningless at the moment -->
-                <abbr>achll<am><g ref="#umacr"/></am>top<!-- CHECK missing #us? --></abbr>
-                <expan>achllutop<ex>m</ex></expan>
+              <w><choice><!-- CHECK -->
+                <abbr>adill<am><g ref="#umacr"/></am>t<am><g ref="#emacr"/></am>p<g ref="#us"/></abbr>
+                <expan>ad illum te<ex>m</ex>p<ex>us</ex></expan>
               </choice></w>
             </unclear>
           </add>
@@ -29963,20 +29973,21 @@
               <abbr><g ref="#jnodotenl"/>p<am><g ref="#amacr"/></am></abbr>
               <expan>ip<ex>s</ex>a</expan>
             </choice></w>
-            <w><c corresp="#v">u</c>acuo</w>
-            <w><choice><!-- CHECK -->
+            <w><c corresp="#v">u</c>acua</w>
+            <supplied><w>est</w></supplied>
+            <w><choice>
               <abbr>d<am><g ref="#umacr"/></am></abbr>
               <expan>du<ex>m</ex></expan>
             </choice></w>
-            <w>na<supplied>m</supplied></w><!-- CHECK -->
+            <w>na<supplied>m</supplied></w>
             <w>lex</w>
-            <w><choice>
+            <persName><w><choice>
               <orig>li<space/>p<add place="above">r</add>andi</orig>
-              <reg>Liprandi</reg>
-            </choice></w>
+              <reg>Liutprandi</reg>
+            </choice></w></persName>
             <w>si</w>
             <w><choice>
-              <abbr><am><g>q</g></am>s</abbr>
+              <abbr><am><g>q</g></am>s</abbr><!-- CHECK add proper <g> ref -->
               <expan>q<ex>ui</ex>s</expan>
             </choice></w>
             <w>res</w>
@@ -29987,14 +29998,18 @@
             </choice></w>
               <w><choice>
                 <abbr>cui<am><g ref="#cogon"/></am></abbr>
-                <expan>cuic<ex>um</ex></expan>
+                <expan>cui<ex>us</ex>c<ex>um</ex></expan>
               </choice></w>
             <w><choice>
               <abbr>q<am>;</am></abbr>
               <expan>q<ex>ue</ex></expan>
             </choice></w>
             <w>causa</w>
-            <w>declitto</w>
+            <w>de</w>
+            <w><choice>
+              <abbr><g ref="#cmacr"/>l<am><g ref="#imacr"/><g ref="#etlig"/></am></abbr><!-- CHECK add proper <g> refs also last one -->
+              <expan>c<ex>on</ex>li<ex>berto</ex></expan>
+            </choice></w>
             <w>suo</w>
           </add>
         </p>
@@ -30117,6 +30132,7 @@
           <w>quod</w>
           <w>fugax</w>
           <add place="margin-left">
+            <supplied><w>Si</w></supplied>
             <w>foris</w>
             <w>
               <choice>
@@ -30133,12 +30149,7 @@
             </w>
           </add>
           <lb n="18" xml:id="CE34-5_lb_092v_18"/>
-          <w>
-            <choice>
-              <abbr>e<am><g ref="#stilde"/></am>o</abbr>
-              <expan>es<ex>t</ex></expan>
-            </choice>
-          </w>
+          <w>es<supplied>t</supplied></w>
           <w>anima</w>
           <w>sua</w>
           <w>incurrat</w>
@@ -30302,7 +30313,7 @@
           <add hand="scribe_2" place="above">
             <choice>
               <abbr><am><g ref="#slongdot"/></am></abbr><!-- CHECK need new g -->
-              <expan><w><ex>id</ex></w> <w><ex>est</ex></w></expan><!-- CHECK meaning -->
+              <expan><w><ex>id</ex></w> <w><ex>est</ex></w></expan><!-- CHECK change each occurrence in scilicet? -->
             </choice>
             <w>omo</w>
           </add>
@@ -30352,23 +30363,24 @@
           <w>cuiuscumque</w>
           <add resp="MT" hand="scribe_2" place="margin-right">
             <unclear><!-- CHECK global unclear? -->
-              <w>capitulo</w>
+              <w>Capitulo</w>
               <w><choice>
-                <orig>lodo<supplied>v</supplied>ic<g ref="#jnodotenl"/></orig>
+                <orig>lodoic<g ref="#jnodotenl"/></orig>
                 <reg>Lodo<supplied>v</supplied>ici</reg>
               </choice></w>
               <w><choice>
-                <abbr>q<am><g ref="#qbardes"/></am></abbr>
-                <expan>q<ex>uod</ex></expan>
+                <abbr><am><g ref="#qbardes"/></am></abbr>
+                <expan>q<ex>ui</ex></expan>
               </choice></w>
               <w><choice>
                 <abbr><am><g ref="#imacr"/></am>c<g ref="#jnodotenl"/>pit</abbr>
                 <expan>i<ex>n</ex>cipit</expan>
               </choice></w>
               <w>sic</w><reg>:</reg>
-              <w>si</w>
-              <w>macjpio</w>
-              <w>deinde</w>
+              <w>Si</w><!-- CHECK on Monumenta Germaniae Historica (RT note)-->
+              <w>ma<supplied>n</supplied>cjpio</w>
+              <w>de</w>
+              <surplus><w>de</w></surplus>
               <w>
                 <choice>
                   <abbr>d<am><g ref="#ntilde"/></am>o</abbr>
@@ -30377,19 +30389,22 @@
               </w>
               <w>suo</w>
               <w>fugerit</w>
-              <w>in</w>
-              <w>aliena</w>
+              <w><choice>
+                <abbr><am><g ref="#imacr"/></am></abbr>
+                <expan>i<ex>n</ex></expan>
+              </choice></w>
+              <w><surplus>n</surplus>aliena</w>
               <w>potestate</w>
               <w><choice>
-                <abbr>c<am><g ref="#omacr"/></am>coeda</abbr>
-                <expan>co<ex>n</ex>coeda</expan>
+                <abbr>c<am><g ref="#omacr"/></am>coeda</abbr><!-- CHECK special char for oe? -->
+                <expan>co<ex>n</ex>ceda</expan>
               </choice></w>
               <w>se</w>
               <w>exfugitori</w>
               <w>ipsa</w>
               <w>lege</w>
               <w>de</w>
-              <w>ac</w>
+              <w>hac</w>
               <w>
                 <choice>
                   <abbr><am><g ref="#pbardes"/>dicta</am></abbr>
@@ -30781,7 +30796,7 @@
               <abbr><am><g ref="#slongtwodot"/></am></abbr><!-- CHECK need new g -->
               <expan><w><ex>id</ex></w> <w><ex>est</ex></w></expan><!-- CHECK meaning -->
             </choice>
-            <w>somo</w>
+            <w>omo</w>
           </add>
           <w>cuius</w>
           <w>curtes</w>
@@ -30925,16 +30940,22 @@
           <w><c corresp="#v">u</c>oluerit</w>
           <add resp="MT" hand="scribe_2" place="margin-left">
             <unclear reason="faded">
-              <w><gap extent="3" unit="chars"/><supplied reason="illegible" resp="alim-pi">man</supplied>c<g
-                  ref="#jnodotenl"/>piu</w>
+              <gap extent="3" unit="chars"/><w><choice>
+                <abbr><supplied reason="illegible" resp="alim-pi">man</supplied>c<g ref="#jnodotenl"/>piu<am><g ref="#umacr"/></am></abbr>
+                <expan><supplied reason="illegible" resp="alim-pi">man</supplied>c<g ref="#jnodotenl"/>piu<ex>m</ex></expan>
+              </choice></w>
               <w>
                 <choice>
-                  <abbr>d<am><g ref="#ntilde"/></am>i</abbr>
-                  <expan>d<ex>omi</ex>ni</expan>
+                  <abbr>d<am><g ref="#rmacr"/></am></abbr><!-- CHECK correct <g> ref -->
+                  <expan>d<ex>icitu</ex>r</expan>
                 </choice>
               </w>
-              <w>manua</w>
-              <w>capiendum</w>
+              <w>a</w>
+              <w>manu<surplus>a</surplus></w>
+              <w><choice>
+                <abbr>capiend<am><g ref="#umacr"/></am></abbr>
+                <expan>capiendu<ex>m</ex></expan>
+              </choice></w>
               <w>eo</w>
               <w><choice>
                 <abbr><am><g ref="#qbardes"/></am></abbr>
@@ -30942,12 +30963,15 @@
               </choice></w>
               <w>in</w>
               <w>ostes</w>
-              <w>requireri</w>
+              <w><choice>
+                <abbr>fre<am><g ref="#qmacr"/></am></abbr><!-- CHECK correct <g> ref, not qmacr -->
+                <expan>freq<ex>uenter</ex></expan>
+              </choice></w>
               <w>fieri</w>
               <w>
                 <choice>
                   <abbr>so<am><g ref="#lhighstrok"/></am></abbr>
-                  <expan>sol<ex>idos</ex></expan>
+                  <expan>sol<ex>et</ex></expan>
                 </choice>
               </w>
             </unclear>
@@ -31214,36 +31238,72 @@
   
           <add hand="scribe_2" place="top">
             <unclear>
-              <!--<w><c corresp="#v">u</c>ada</w>
-              <w>lio</w>
-              <w>andore</w>
-              <w>actua</w>
-              <w>noto</w>
-              <w>qđ</w>
-              <w>aliq</w>
-              <w>omi</w>
-              <w>
-                <choice>
-                  <abbr><am><g ref="#pbardes"/></am>fidi</abbr>
-                  <expan>p<ex>er</ex>fidi</expan>
-                </choice>
-              </w>
-              <w><c corresp="#v">u</c>i<c corresp="#v">u</c>ix</w>
-              <w>iurate</w>
-              <w>dr</w>
-              <w>iuxe</w>
+              <w>Vada</w>
+              <w><choice>
+                <abbr><am><g ref="#imacr"/></am></abbr>
+                <expan>i<ex>n</ex></expan>
+              </choice></w>
+              <persName><w><choice>
+                <orig>librando</orig>
+                <reg>Liutprando</reg>
+              </choice></w></persName>
+              <w><choice>
+                <abbr>relact<am><g ref="#umacr"/></am></abbr>
+                <expan>relactu<ex>m</ex></expan>
+              </choice></w>
+              <w><choice>
+                <abbr><am><g ref="#et"/></am></abbr><!-- CHECK add correct ref -->
+                <expan>e<ex>st</ex></expan>
+              </choice></w>
+              <w><choice>
+                <abbr>nob<am><g ref="#bstrok"/></am></abbr><!-- CHECK correct ref -->
+                <expan>nob<ex>is</ex></expan>
+              </choice></w>
+              <w><choice>
+                <abbr>q<am><g ref="#dstrok"/></am></abbr><!-- CHECK add correct ref -->
+                <expan>q<ex>uo</ex>d</expan>
+              </choice></w>
+              <w><choice>
+                <abbr>ali<am><g ref="#qbardes"/></am></abbr>
+                <expan>aliq<ex>ui</ex></expan>
+              </choice></w>
+              <w><choice>
+                <abbr>ho<am><g ref="#mmacr"/>i</am></abbr><!-- CHECK correct ref -->
+                <expan>hom<ex>in</ex>i<ex>m</ex></expan>
+              </choice></w>
+              <w><choice>
+                <abbr><am><g ref="#pbardes"/></am>fidi</abbr>
+                <expan>p<ex>er</ex>fidi</expan>
+              </choice></w>
+              <w>u<g ref="#imacr"/>uix</w><!-- CHECK ??? -->
+              <w>jurate</w>
+              <w><choice>
+                <abbr>d<am><g ref="#rmacr"/></am></abbr><!-- CHECK correct ref -->
+                <expan>d<ex>icitu</ex>r</expan>
+              </choice></w>
+              <w>uix<g ref="#emacr"/></w><!-- CHECK ??? -->
               <w>dubio</w>
-              <w>nam</w>
-              <w>diei</w>
-              <w>canto</w>
-              <w><c corresp="#v">u</c>ixiustu</w>
-              <w>sal<c corresp="#v">u</c>abit</w>
-              <w>p</w>
+              <w>sicut</w>
+              <w>dici</w>
+              <w><choice>
+                <abbr><am><g ref="#imacr"/></am>canto</abbr>
+                <expan>i<ex>n</ex>canto</expan>
+              </choice></w>:
+              <w>uix</w>
+              <w><choice>
+                <abbr>iust<am><g ref="#umacr"/></am></abbr>
+                <expan>iustu<ex>m</ex></expan>
+              </choice></w>
+              <w>sal<space extent="3" unit="char"/>uabitur</w>.<!-- CHECK ??? -->
+              <w><choice>
+                <abbr><am>R</am></abbr><!-- CHECK ??? -->
+                <expan>R<ex>ecordare</ex></expan>
+              </choice></w>
               <w>quia</w>
-              <w>actinex</w>-->
-              <gap extent="20" unit="word" reason="illegible"/>
-              --------------------------------------------------------------------------
-              <lb/>---------------------------------------------------------------------
+              <w><choice>
+                <abbr><am><g ref="#cmacr"/></am>tinet</abbr><!-- CHECK last letter -->
+                <expan>c<ex>on</ex>tinet</expan>
+              </choice></w>
               <w><choice>
                 <abbr>capt<am><g ref="#lstrok">ł</g></am></abbr>
                 <expan>capit<ex>u</ex>l<ex>o</ex></expan>
@@ -31254,7 +31314,7 @@
               </choice></w>
               <w><choice>
                 <abbr><am><g ref="#qbardes"/></am></abbr>
-                <expan>q<ex>uod</ex></expan>
+                <expan>q<ex>ui</ex></expan>
               </choice></w>
               <w><choice>
                 <abbr><am><g ref="#imacr"/></am>c<g ref="#jnodotenl"/>pit</abbr>
@@ -31277,15 +31337,15 @@
               <abbr>c<am><g ref="#omacr"/></am>tumac<g ref="#jnodotenl"/>o</abbr>
               <expan>co<ex>n</ex>tumac<g ref="#jnodotenl"/>o</expan>
             </choice></w>
-            <w>colleo</w>
-            <w>tulle<supplied>r</supplied>i<supplied>t</supplied></w>
-            <gap extent="10" unit="char" reason="illegible"/>
+            <w>collectulle<supplied>r</supplied>i<supplied>t</supplied></w><!-- CHECK am and new <g> instead of <supplied>? -->
+            <w>ud<g ref="#rmacr"/>u<g ref="#emacr"/></w><!-- CHECK ??? -->
+            <w>oex</w><!-- CHECK ??? -->
+            <w><g ref="#cmacr"/></w><!-- CHECK ??? -->
             <w><choice>
               <abbr>ann<am><g ref="#umacr"/></am></abbr>
               <expan>annu<ex>m</ex></expan>
             </choice></w>
           </add>
-          
           <lb n="1" xml:id="CE34-5_lb_094r_01"/>
           <w>ipse</w>
           <w>fuga</w>
@@ -31368,34 +31428,62 @@
               <expan>o<ex>mo</ex></expan>
             </choice></w>
             <w>romano</w>
-            <w>abuerit</w>
+            <w>abuerit</w><!-- CHECK last letter -->
             <w>filii</w>
             <w>de</w>
             <w>femina</w>
             <w>langobarda</w>
-            <w>ex</w>
-            <w>antequam</w>
-            <w>de</w>
-            <w>legitimam</w>
-            <w>uxorem</w>
-            <w>tullerit</w>
+            <w>et</w><!-- CHECK last letter -->
+            <w><choice>
+              <abbr><am><g ref="#amacr"/></am>te</abbr>
+              <expan>a<ex>n</ex>te</expan>
+            </choice></w>
+            <w><choice>
+              <abbr>qu<am><g ref="#amacr"/></am></abbr>
+              <expan>qua<ex>m</ex></expan>
+            </choice></w>
+            <w>ad</w>
+            <w><choice>
+              <abbr>legitim<am><g ref="#amacr"/></am></abbr>
+              <expan>legitima<ex>m</ex></expan>
+            </choice></w>
+            <w>uxore</w>
+            <w>tullerit</w><!-- CHECK last letter -->
             <w>filios</w>
-            <w>abuerit</w>
-            <w>ex</w>
-            <w>post</w>
-            <w>ea</w>
+            <w>abuerit</w><!-- CHECK last letter -->
+            <w>et</w>
+            <w>postea</w>
             <w>legitima</w>
-            <w>fecerit</w>
+            <w>fecerit</w><!-- CHECK last letter -->
             <w>filio</w>
-            <w>abuerit</w>
-            <w>qualiter</w>
+            <w>abuerit</w><!-- CHECK last letter -->
+            <w>qualiter</w><!-- CHECK add correct <g> ref -->
             <w>di<c corresp="#v">u</c>idat</w>
-            <w>uius</w>
-            <w>fratre</w>
+            <w>uius</w><!-- CHECK add abbr -->
+            <w><choice>
+              <abbr><am><g ref="#Itwodot"/></am></abbr>
+              <expan><w><ex>id</ex></w> <w><ex>est</ex></w></expan>
+            </choice></w>
+            <w><choice>
+              <abbr>fratr<am><g ref="#emacr"/></am></abbr>
+              <expan>fratre<ex>m</ex></expan>
+            </choice></w>
             <w>patris</w>
             <w>aut</w>
-            <w>a<c corresp="#v">u</c>iculum</w>
-            <w>fratre</w>
+            <w><choice>
+              <abbr>a<c corresp="#v">u</c>ncul<am><g ref="#umacr"/></am></abbr>
+              <expan>a<c corresp="#v">u</c>nculu<ex>m</ex></expan>
+            </choice></w>
+            <w>
+              <choice>
+                <abbr><am><g ref="#Itwodot"/></am></abbr>
+                <expan><w><ex>id</ex></w>
+                  <w><ex>est</ex></w></expan>
+              </choice></w>
+            <w><choice>
+              <abbr>fratr<am><g ref="#emacr"/></am></abbr>
+              <expan>fratre<ex>m</ex></expan>
+            </choice></w>
             <w>matris</w>
           </add>
         </p>
@@ -32397,7 +32485,11 @@
           <term ref="#figangit" xml:id="CE34-5_term_figangit_291" xml:lang="lng">
             <w>fegangit</w>
           </term>
-          <add hand="scribe_2" place="above"><w>trasatantiate</w></add>
+          <add hand="scribe_2" place="above">
+            <choice>
+              <abbr><am><g ref="#Itwodot"/></am></abbr><!-- CHECK need new g + ONLY ONE DOT -->
+              <expan><w><ex>id</ex></w> <w><ex>est</ex></w></expan>
+            </choice><w>transata</w> <w>morte</w></add>
           <w>nisi</w>
           <w>
             <choice>
@@ -32912,18 +33004,18 @@
           <w>mortuus</w>
           <w>aut</w>
           <w>al<g ref="#jnodotenl"/>qua</w>
-          <add hand="scribe_2" place="margin-left">
+          <add hand="scribe_2" place="margin-left"><!-- CHECK all, currently based on BAV -->
             <unclear>
               <w>Quare</w>
               <w><choice>
                 <abbr><am><g ref="#qbardes"/></am></abbr>
-                <expan>q<ex>uod</ex></expan>
+                <expan>q<ex>ui</ex></expan>
               </choice></w>
               <w>ille</w>
               <w>cuius</w>
               <w>sepi</w> <!-- CHECK ??? -->
               <space/>
-              <w>et</w>
+              <w>est</w>
               <w>nec</w>
               <w><choice>
                 <abbr>su<am><g ref="#umacr"/></am></abbr>
@@ -32932,14 +33024,14 @@
               <w>
                 <choice>
                   <abbr><am><g ref="#pbardes"/></am>tine<am>te</am></abbr>
-                  <expan>p<ex>er</ex>tine<ex>n</ex>te</expan>
+                  <expan>p<ex>er</ex>tine<ex>n</ex>te<ex>m</ex></expan>
                 </choice>
               </w>
               <w><choice>
-                <abbr><am><g ref="#imacr"/></am></abbr>
-                <expan>i<ex>n</ex></expan>
+                <abbr><am><g ref="#imacr"/></am>uo<c corresp="#v">u</c>it</abbr>
+                <expan>i<ex>n</ex>vovit</expan>
               </choice></w>
-              <w>uo<c corresp="#v">u</c>ita</w>
+              <w>a</w>
               <w><choice>
                 <abbr>saliend<am><g ref="#umacr"/></am></abbr>
                 <expan>saliendu<ex>m</ex></expan>
@@ -32951,20 +33043,20 @@
                 <abbr>c<am><g ref="#omacr"/></am>p</abbr>
                 <expan>co<ex>n</ex>p<ex>onat</ex></expan>
               </choice></w>
-              <w><c corresp="#v">u</c>ero</w>
+              <w>pro</w>
+              <w>eo</w>
               <w><choice>
-                <abbr><am><g ref="#qbardes"/></am></abbr>
-                <expan>q<ex>uod</ex></expan>
+                <abbr><am><g ref="#qbardes"/></am>a</abbr>
+                <expan>q<ex>ui</ex>a</expan>
               </choice></w>
-              <w>a</w>
               <w>ipso</w>
-              <w>cui</w>
+              <w>cujus</w>
               <w>sepe</w>
               <w><choice>
                 <abbr><am><g ref="#emacr"/></am></abbr>
-                <expan>e<ex>st</ex></expan>
+                <expan>e<ex>sse</ex></expan>
               </choice></w>
-              <w>clusura</w>
+              <w>clausura</w>
               <w><choice>
                 <abbr><am><g ref="#emacr"/></am></abbr>
                 <expan>e<ex>st</ex></expan>
@@ -32982,8 +33074,9 @@
               <w>a</w>
               <w>sal<g ref="#jnodotenl"/>endum</w>
               <w>et</w>
-              <w>sic</w>
-              <w>mo<c corresp="#v">u</c>i</w>
+              <w>si</w>
+              <w>non</w>
+             <w>mo<c corresp="#v">u</c>i</w>
               <w>nichil</w>
               <space/>
               <w>conponat</w>
@@ -32992,7 +33085,8 @@
               <w>dicere</w>
               <space/>
               <damage agent="rubbing"/>
-              <w>integram</w>
+              <w>verbi</w>
+              <w>gratia</w>
               <w>provocasset</w>
             </unclear>
           </add>
@@ -34619,8 +34713,12 @@
           <add hand="scribe_2" place="above">
             <w>
               <choice>
+                <abbr><am><g ref="#Itwodot"/></am></abbr><!-- CHECK need new g -->
+                <expan><w><ex>id</ex></w> <w><ex>est</ex></w></expan>
+              </choice>
+              <choice>
                 <abbr>plagat<am><g ref="#utilde"/></am></abbr>
-                <expan>plgatu<ex>m</ex></expan>
+                <expan>plagatu<ex>m</ex></expan>
               </choice>
             </w>
           </add>
@@ -34636,7 +34734,15 @@
           <w>aut</w>
           <w>minuadum</w>
           <w>iubemus</w>
-          <add hand="scribe_2" place="above"><w>comandem</w></add>
+          <add hand="scribe_2" place="above">
+            <choice>
+              <abbr><am><g ref="#Itwodot"/></am></abbr><!-- CHECK need new g -->
+              <expan><w><ex>id</ex></w> <w><ex>est</ex></w></expan>
+            </choice>
+            <w><choice>
+              <abbr>comandem<am><g ref="#us"/></am></abbr><!-- CHECK g -->
+              <expan>comandem<ex>us</ex></expan>
+            </choice></w></add>
           <w>ut</w>
           <w>consignet</w>
           <w>
@@ -34656,7 +34762,12 @@
             </choice>
           </w>
           <w>intrica<c corresp="#v">u</c>it</w>
-          <add hand="scribe_2" place="above"><w>plaga<c corresp="#v">u</c>i</w></add>
+          <add hand="scribe_2" place="above">
+            <choice>
+              <abbr><am><g ref="#Itwodot"/></am></abbr><!-- CHECK need new g -->
+              <expan><w><ex>id</ex></w> <w><ex>est</ex></w></expan>
+            </choice>
+            <w>plaga<c corresp="#v">u</c>i</w></add>
           <w><g ref="#openetlig"/></w>
           <w>
             <choice>
@@ -34752,7 +34863,12 @@
           <w>mediocris</w>
           <w>spata</w>
           <w>nam</w>
-          <add hand="scribe_2" place="above"><w>certe</w></add>
+          <add hand="scribe_2" place="above">
+            <choice>
+              <abbr><am><g ref="#Itwodot"/></am></abbr><!-- CHECK need new g -->
+              <expan><w><ex>id</ex></w> <w><ex>est</ex></w></expan>
+            </choice>
+            <w>certe</w></add>
           <w>si</w>
           <w>post</w>
           <w>ipsum</w>
@@ -34877,7 +34993,7 @@
               <expan>conp<ex>onat</ex></expan>
             </choice>
           </w>
-          <w>tres<add hand="scribe_2" place="above">misse</add></w>
+          <w>tres<add hand="scribe_2" place="above">misse</add></w><!-- CHECK add space? -->
           <measure quantity="1" type="currency" unit="soldi"><w>uno</w></measure>
           <w><g ref="#openetlig"/></w>
           <w>si</w>
@@ -34959,7 +35075,7 @@
               <expan>sup<ex>ra</ex></expan>
             </choice>
           </w>
-          <add hand="scribe_2" place="margin-right">
+          <add hand="scribe_2" place="margin-right"><!-- HERE -->
             <w><hi rend="cap">S</hi>i</w>
             <w>
               <choice>
@@ -34968,9 +35084,18 @@
               </choice>
             </w>
             <w>a</w>
-            <w>caballu</w>
-            <w>a<gap extent="2" unit="chars"/><supplied reason="illegible" resp="alim-pi">li</supplied>enu</w>
-            <w>auru</w>
+            <w><choice>
+              <abbr>caball<am><g ref="#umacr"/></am></abbr>
+              <expan>caballu<ex>m</ex></expan>
+            </choice></w>
+            <w><choice>
+              <abbr>a<gap extent="2" unit="chars"/><supplied reason="illegible" resp="alim-pi">li</supplied>en<am><g ref="#umacr"/></am></abbr>
+              <expan>a<gap extent="2" unit="chars"/><supplied reason="illegible" resp="alim-pi">li</supplied>enu<ex>m</ex></expan>
+            </choice></w>
+            <w><choice>
+              <abbr>vir<am><g ref="#umacr"/></am></abbr>
+              <expan>viru<ex>m</ex></expan>
+            </choice></w>
             <w>cu</w>
             <w>da</w>
             <w>capella<c corresp="#v">u</c>erii</w>
