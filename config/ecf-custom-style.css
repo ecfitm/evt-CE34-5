@@ -11,8 +11,9 @@ body {
 }
 
 body>header {
-	background-color: #cbcec0;
-	color: #262c11;
+	color: #ECEFF1;
+	background-color: #16184e !important;
+	/* color: #262c11; */
 	font-weight: bold;
 	padding-left: 5%;
 	/* width: 90%;
@@ -24,7 +25,6 @@ body>header {
 .globalMenu {
 	padding-right: 5%;
 }
-
 .globalMenu button-switch .buttonSwitch-icon {
 	color: #7b7c73;
 
@@ -32,24 +32,25 @@ body>header {
 
 .buttonSwitch-active .icon,
 .buttonSwitch:hover .icon {
-	color: #262c11 !important;
+	color: white !important;
+}
+
+.apparatuses_tabs_header,
+.box .box-menu, .navBarSliderWrapper {
+	background-color: #27468e !important;
 }
 
 /* Selectors style and bo */
 .selector,
 span.buttonSwitch {
-	padding: 0 10px;
+	/* padding: 0 10px; */
 	box-shadow: none;
 }
 
-
 .box .box-menu,
 .navBarSliderWrapper {
-	background: #f4f4f4;
-
+	background: #27468e !important;
 }
-
-
 
 .box .box-body {
 	border: 0 !important;
@@ -57,7 +58,7 @@ span.buttonSwitch {
 
 /* Semantic colors */
 .diplomaticEdition .del {
-	background-color: #90cdba;
+	background-color: #ff9999;
 }
 
 .diplomaticEdition .choice .sic {
@@ -65,8 +66,13 @@ span.buttonSwitch {
 }
 
 .diplomaticEdition .add {
-	background-color: #c9cbcf;
+	background-color: #c4e1ba;
 }
+
+span[data-place="top-right"] .add {
+	background-color: initial;
+}
+
 
 .diplomaticEdition .choice .abbr {
 	color: #1f3f7a !important;
